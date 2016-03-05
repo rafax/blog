@@ -1,3 +1,13 @@
 baseurl = "http://replace-this-with-your-hugo-site.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+theme = "hyde-x"
+title = "Rafal Gajdulewicz"
+
+[params]
+	DateForm = "2015-07-20T21:04:18+02:00"
+	theme = "theme-base-0d layout-reverse"
+
+	googleAnalytics = "UA-67347513-1"
+	github = "https://github.com/rafax"
+	linkedin = "https://linkedin.com/in/gajdulewicz"
+	twitter = "https://twitter.com/gdlwcz"
