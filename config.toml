@@ -2,9 +2,9 @@ baseurl = "http://blog.gajdulewicz.com/"
 languageCode = "en-us"
 theme = "hyde-x"
 title = "Rafal Gajdulewicz"
+disqusShortname = "blog-gajdulewicz-com"
 
 pygmentsstyle = "default"
-
 [author]
     name = "Rafal Gajdulewicz"
 
@@ -12,9 +12,16 @@ pygmentsstyle = "default"
 	DateForm = "2015-07-20T21:04:18+02:00"
 	theme = "theme-base-08 layout-reverse"
 
+	truncate = false
+
 	home = "Posts"
 
 	googleAnalytics = "UA-67347513-1"
 	github = "https://github.com/rafax"
 	linkedin = "https://linkedin.com/in/gajdulewicz"
 	twitter = "https://twitter.com/gdlwcz"
+
+[permalinks]
+    # Optional. Change the permalink format for the 'post' content type.
+    # The format shown here is the same one Jekyll/Octopress uses by default.
+    post = "/blog/:year/:month/:day/:title/"
