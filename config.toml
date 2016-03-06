@@ -1,11 +1,18 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://blog.gajdulewicz.com/"
 languageCode = "en-us"
 theme = "hyde-x"
 title = "Rafal Gajdulewicz"
 
+pygmentsstyle = "default"
+
+[author]
+    name = "Rafal Gajdulewicz"
+
 [params]
 	DateForm = "2015-07-20T21:04:18+02:00"
-	theme = "theme-base-0d layout-reverse"
+	theme = "theme-base-08 layout-reverse"
+
+	home = "Posts"
 
 	googleAnalytics = "UA-67347513-1"
 	github = "https://github.com/rafax"
