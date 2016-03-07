@@ -1,0 +1,11 @@
+/*
+ * Tweaks and overrides to poole.css
+ */
+
+pre {
+  padding: 0
+}
+
+a {
+  text-decoration: underline;
+}
