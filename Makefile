@@ -4,4 +4,4 @@ serve:
 open:
 	open http://localhost:1313/
 build:
-	hugo -b=http://blog.gajdulewicz.com
+	hugo -b=http://gajdulewicz.com

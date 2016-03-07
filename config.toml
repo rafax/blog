@@ -1,4 +1,4 @@
-baseurl = "http://blog.gajdulewicz.com/"
+baseurl = "http://gajdulewicz.com/"
 languageCode = "en-us"
 theme = "hyde-x"
 title = "Rafal Gajdulewicz"
