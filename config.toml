@@ -2,7 +2,6 @@ baseurl = "https://gajdulewicz.com/"
 languageCode = "en-us"
 theme = "hyde-x"
 title = "Rafal Gajdulewicz"
-disqusShortname = "blog-gajdulewicz-com"
 
 pygmentsstyle = "default"
 [author]

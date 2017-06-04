@@ -4,4 +4,6 @@ serve:
 open:
 	open http://localhost:1313/
 build:
-	hugo -b=http://gajdulewicz.com
+	hugo -b=https://gajdulewicz.com
+deploy:
+	gcloud app --project gajdulewiczcom deploy
